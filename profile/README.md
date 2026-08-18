@@ -33,7 +33,7 @@ Visit our [repository](https://github.com/duckframework/duck) to explore more of
 
 ### Quick Links
 
-- 📚 [Documentation](https://duckframework.xyz/documentation)
+- 📚 [Documentation](https://docs.duckframework.com)
 - 🐛 [Report a Bug](https://github.com/duckframework/.github/issues/new?template=bug_report.md)
 - 💡 [Request a Feature](https://github.com/duckframework/.github/issues/new?template=feature_request.md)
 - 🤝 [Contributing Guidelines](https://github.com/duckframework/duck/blob/main/CONTRIBUTING.md)
